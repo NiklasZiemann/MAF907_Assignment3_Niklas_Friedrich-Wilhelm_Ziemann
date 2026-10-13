@@ -1,0 +1,29 @@
+year,def_na,nd_na,ne_na,source
+1971,0.0588,0.0215,0.0376,vector
+1972,0.0601,0.0205,0.0406,vector; nd=vector_nearest0.3
+1973,0.0423,0.0318,0.0125,vector; ne=vector_nearest0.3
+1974,0.0303,0.0202,0.0104,vector; ne=vector_nearest0.9
+1975,0.0125,0.0054,0.0074,vector; nd=vector_nearest1.2
+1976,0.0201,0.0054,0.0135,vector
+1977,0.033,0.0188,0.0137,vector
+1978,0.0449,0.0235,0.0216,vector; nd=vector_nearest0.3
+1979,0.0572,0.0256,0.0331,vector; nd=vector_nearest0.9
+1980,0.09,0.0245,0.066,vector
+1981,0.1109,0.0188,0.0939,vector
+1982,0.0848,0.0225,0.0637,vector; nd=vector_nearest0.9
+1983,0.1506,0.0135,0.1379,vector; nd=vector_nearest0.3
+1984,0.1132,0.0275,0.0876,vector
+1985,0.1239,0.0227,0.1048,vector
+1986,0.1611,0.026,0.14,vector; nd=vector_gap_interp
+1987,0.1489,0.0205,0.1299,vector
+1988,0.0931,0.0165,0.0786,vector
+1989,0.103,0.0185,0.0849,vector
+1990,0.0885,0.0054,0.0808,vector; nd=vector_nearest1.2
+1991,0.1016,-0.0157,0.1125,vector
+1992,0.1244,-0.0075,0.1313,vector
+1993,0.1403,-0.0015,0.1452,vector; nd=vector_nearest0.6
+1994,0.1503,0.0125,0.1353,vector; nd=vector_nearest0.3
+1995,0.1935,0.0266,0.1608,vector
+1996,0.219,0.0257,0.1938,vector; ne=vector_gap_interp
+1997,0.1876,0.0357,0.1565,vector; nd=vector_nearest1.2
+1998,0.1916,0.0457,0.1422,vector

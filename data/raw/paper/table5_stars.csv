@@ -1,0 +1,17 @@
+row,c1,c2,c3,c4,c5,c6,c7
+constant,a,a,b,a,a,a,a
+constant_se,,,,,,,
+div,a,a,a,a,a,a,a
+div_se,,,,,,,
+inv,a,a,a,a,a,a,a
+inv_se,,,,,,,
+dwc,a,a,a,a,a,a,a
+dwc_se,,,,,,,
+cf,a,a,a,a,a,a,a
+cf_se,,,,,,,
+cmltd,,,,,,,a
+cmltd_se,,,,,,,
+n,,,,,,,
+r2,,,,,,,
+r2_holdout_full,,,,,,,
+r2_holdout_restricted,,,,,,,

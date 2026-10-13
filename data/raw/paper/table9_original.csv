@@ -1,0 +1,32 @@
+variable,n,mean,sd,min,max
+Book value of assets (in millions of 1992 $),114994,657.18,2306.69,0.18,31535.86
+Sales (in millions of 1992 $),115049,714.20,2232.51,0.00,29950.10
+Book value of debt (in millions of 1992 $),115089,180.93,638.63,0.00,8126.32
+Dividends (in millions of 1992 $),115041,12.96,55.07,0.00,790.14
+Capital investments (in millions of 1992 $),114672,66.17,246.13,-88.17,3326.06
+Δ Working capital (in millions of 1992 $),114662,7.57,57.16,-469.44,650.93
+Internal cash flow (in millions of 1992 $),114689,75.99,276.75,-38.69,3725.55
+Financing deficit (in millions of 1992 $),114647,10.57,72.44,-467.35,889.64
+Issuance of long-term debt (in millions of 1992 $),111970,33.97,131.79,0.00,1829.01
+Reduction of long-term debt (in millions of 1992 $),115064,23.92,93.52,0.00,1384.43
+Net debt issued (in millions of 1992 $),111754,8.10,63.84,-373.25,808.03
+Sale of common stock (in millions of 1992 $),112663,5.95,24.82,0.00,351.78
+Purchase of common stock (in millions of 1992 $),115084,2.46,16.37,0.00,315.86
+Net equity issued (in millions of 1992 $),112363,3.33,23.72,-235.44,300.56
+Total net external financing (in millions of 1992 $),109702,11.40,72.51,-430.07,903.19
+Cash dividend/net assets,115173,0.01,0.03,0.00,0.29
+Capital investment/net assets,114961,0.15,0.20,-0.98,1.84
+Net increase in working capital/net assets,114921,0.02,0.31,-3.85,1.39
+Internal cash flow/net assets,114949,0.09,0.33,-4.65,1.34
+Financing deficit/net assets,115611,0.09,0.32,-1.04,3.37
+Gross debt issued/net assets,112147,0.11,0.21,0.00,2.71
+Net debt issued/net assets,112325,0.02,0.16,-1.14,1.14
+Net equity issued/net assets,112799,0.08,0.26,-0.27,2.95
+Net external financing/net assets,110609,0.09,0.32,-1.02,3.37
+Current maturity of long-term debt/net assets,105574,0.04,0.10,0.00,1.52
+Change in long-term debt/net assets ratio,104042,0.00,0.15,-1.07,1.13
+Long-term debt/total assets,115310,0.19,0.19,0.00,1.32
+Book leverage,115338,0.37,0.33,-2.58,4.64
+Tangibility (net fixed assets/total assets),115029,0.34,0.23,0.00,0.95
+Market value of assets/book value of assets,90721,1.66,1.54,0.46,18.44
+Profitability (operating income/assets),114872,0.09,0.20,-2.58,0.52

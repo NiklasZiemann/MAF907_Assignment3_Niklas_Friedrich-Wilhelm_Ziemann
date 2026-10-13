@@ -1,0 +1,9 @@
+row,c1,c2,c3,c4,c5,c6
+constant,b,a,a,a,a,a
+constant_se,,,,,,
+def,a,a,a,a,a,a
+def_se,,,,,,
+n,,,,,,
+r2,,,,,,
+r2_holdout_full,,,,,,
+r2_holdout_restricted,,,,,,
